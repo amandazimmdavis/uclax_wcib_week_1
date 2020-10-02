@@ -1,5 +1,5 @@
 body {
-  color: #640000;
+  color: #020000;
   background: #000a0a;
   text-align: left;
   font-family: 'Helvetica', 'Arial', sans-serif;
@@ -8,25 +8,25 @@ body {
   padding-bottom: 0;
   padding-left: 20px; }
   body h1 {
-    color: #640000;
+    color: #020000;
     margin-top: 10px;
     margin-bottom: 15px; }
   body h2 {
-    color: #640000;
+    color: #020000;
     margin-top: 10px;
     margin-bottom: 10px; }
   body h3 {
-    color: #640000;
+    color: #020000;
     margin-top: 10px;
     margin-bottom: 0px; }
   body p {
-    color: #640000;
+    color: #020000;
     padding-right: 30px; }
   body ul {
     list-style-type: disc; }
   body a {
     text-decoration: underline; }
     body a:hover {
-      color: #640000; }
+      color: #020000; }
   body img {
     border-radius: 0px; }
