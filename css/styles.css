@@ -1,7 +1,7 @@
 body {
   color: #020000;
   background: lightyellow;
-  text-align: left;
+  text-align: center;
   font-family: 'Helvetica', 'Arial', sans-serif;
   padding-top: 20px;
   padding-right: 20px;
@@ -21,7 +21,7 @@ body {
     margin-bottom: 0px; }
   body p {
     color: #020000;
-    padding-right: 30px; }
+    padding-right: 50px; }
   body ul {
     list-style-type: disc; }
   body a {
@@ -29,4 +29,4 @@ body {
     body a:hover {
       color: #020000; }
   body img {
-    border-radius: 0px; }
+    border-radius: 50%; }
